@@ -8,9 +8,9 @@ Here names of MCS110 Executives and our activities
 * [Name](linkedin) - #Roles/Job *Company/School<br>
     # Title1: ..title..
     # Title2: ..title..
-* [Name](linkedin) - #Roles/Job *Company/School<br>
-    # Title1: ..title..
-    # Title2: ..title..
+* [Zai Zainal](https://www.linkedin.com/in/mohd-zainurin-syafiq/) - #Junior Web Developer *Globaltium Sdn Bhd<br>
+    # Title1: Yii2 Framework
+    # Title2: Wordpress Framework
 * [Name](linkedin) - #Roles/Job *Company/School<br>
     # Title1: ..title..
     # Title2: ..title..
